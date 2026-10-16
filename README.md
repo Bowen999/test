@@ -132,3 +132,5 @@ For each model:
 ### CFM-ID
 * 这个应该比较简单
 * Molecular graph --> MS2
+
+- 2026-10-16: pair programming note.
